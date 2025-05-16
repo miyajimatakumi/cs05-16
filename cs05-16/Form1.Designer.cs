@@ -84,6 +84,7 @@
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(112, 23);
             textBox1.TabIndex = 4;
+            textBox1.Text = "miyajima";
             // 
             // timer1
             // 
